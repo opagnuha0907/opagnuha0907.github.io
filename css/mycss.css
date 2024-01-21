@@ -90,8 +90,8 @@ nav li:last-child a
 {
 	background: #BDB76B;
 	height: 350px;
-    color: white;
-    padding: 0px 9% 10px;
+	color: white;
+	padding: 0px 9% 10px;
 	border-top: 20px solid #FAFAD2;
 	border-bottom: 20px solid #FAFAD2;
 	margin-right: 8%;
@@ -101,13 +101,13 @@ nav li:last-child a
 .aside_zaw
 {
 	width: 85%;
-	height: 400px;
+	height: 55%;
 	background: #BDB76B;
 	box-shadow: 0 5px 10px #aaa;
 	margin-right: 8%;
 	margin-left: 8%;
 	color: white;
-    padding: 17px 8% 17px 8%;
+    	padding: 17px 8% 17px 8%;
 	border-top: 20px solid #FAFAD2;
 	border-bottom: 20px solid #FAFAD2;
 }
